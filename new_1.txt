@@ -1,5 +1,9 @@
 
 
 Add 3 line in master
+<<<<<<< HEAD
 
 Add 5 line in testMerge
+=======
+Add 4 line in master
+>>>>>>> master
